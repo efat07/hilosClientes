@@ -1,7 +1,7 @@
 package com.almundo.hilosClientes.model;
 
 /**
- * @author https://github.com/efat07 - Eyner Arias - efat07@hotmail.com
+ * @author https://github.com/efat07 - Eyner Arias - efat07@gmail.com
  *
  */
 

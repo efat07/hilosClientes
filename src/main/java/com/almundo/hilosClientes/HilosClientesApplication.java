@@ -10,7 +10,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
- * @author https://github.com/efat07 - Eyner Arias - efat07@hotmail.com
+ * @author https://github.com/efat07 - Eyner Arias - efat07@gmail.com
  *
  */
 
